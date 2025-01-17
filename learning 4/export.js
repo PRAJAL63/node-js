@@ -1,3 +1,3 @@
 const math = require("./math");
 
-console.log("Math value is", math(5 , 2));
+console.log("Math value is", math(17 , 7));
